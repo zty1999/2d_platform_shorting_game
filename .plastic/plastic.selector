@@ -1,0 +1,4 @@
+repository "2d_platform_shooting_game@sparkya@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
